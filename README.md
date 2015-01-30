@@ -21,7 +21,7 @@
 
 微信JS-SDK签名权限接口使用说明 [Signed permission Wechat JS-SDK interface setup steps] 
 
-* 调用地址：get_js_token?url=[url]&callback=[callback]
+* 调用地址：get_js_token.php?url=[url]&callback=[callback]
 * 调用方式：GET
 * 调用参数1：[url] 为必填参数   
 * 调用参数2：[callback] 为Jsonp调用时必选项,参数为任意字符
